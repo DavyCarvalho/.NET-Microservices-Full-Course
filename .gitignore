@@ -38,6 +38,7 @@ x64/
 *.log
 *.vspscc
 .vs/*
+.vscode/*
 .v2
 *.vssscc
 .builds
@@ -150,3 +151,5 @@ Todo/.vscode/tasks.json
 /Consumer/.vs/Consumer/v17
 /Publisher/.vs/Publisher
 /PlatformService/.vs/PlatformService
+/PlatformServiceProject/.vs
+/PlatformServiceProject/PlatformService/.vs/PlatformService
